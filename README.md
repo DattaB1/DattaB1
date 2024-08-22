@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DattaB1
-- 👀 I’m interested in FullStack Java Developer Technologies
+- 👀 I’m FullStack Java Developer
 - 🌱 I’m currently learning JavaScript,React,Angular,Java,Spring Boot,Sql,MangoDB
 - 💞️ I’m looking to collaborate on Startup as well as MNC's 
 - 📫 How to reach me  -->www.linkedin.com/in/dattabalbudhe
